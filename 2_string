@@ -1,0 +1,9 @@
+tekst = "Anna, paweł, TomEK"
+tab = tekst.split(",")
+
+print(tekst)
+print(tab)
+imie = tab[0]
+print(imie)
+print(type(tab))
+
