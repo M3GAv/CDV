@@ -32,3 +32,6 @@ imie = input()
 print("Podaj wiek: ")
 wiek = input()
 print("Twoje imie: " + imie + ". Twoj wiek: " + wiek)
+
+pierwszyZnak = nazwisko[0]
+print(pierwszyZnak)
