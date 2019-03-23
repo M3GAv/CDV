@@ -1,1 +1,13 @@
-t
+#pi
+import math
+pi = math.pi
+print(pi)
+
+# pierwiastek
+pierwisatek = math.sqrt(9)
+print(pierwisatek)
+
+#random
+import random
+losuj = random.random()
+print(losuj)
